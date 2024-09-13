@@ -1,4 +1,4 @@
-## React Accordion Project
+## React Accordion/FAQs Project
 
 **Project URL:**
 https://react-accordion-project-1111.netlify.app/
